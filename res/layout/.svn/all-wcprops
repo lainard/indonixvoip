@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/Keyyo-VoIP/res/layout
+END
+white_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/white_title.xml
+END
+sms_reader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/sms_reader.xml
+END
+compose_message_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/compose_message_activity.xml
+END
+in_call_main2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/in_call_main2.xml
+END
+wizard_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/wizard_row.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/help.xml
+END
+accounts_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/accounts_list_item.xml
+END
+wizard_prefs_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/wizard_prefs_base.xml
+END
+edit_filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/Keyyo-VoIP/res/layout/edit_filter.xml
+END
+extensible_card.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/Keyyo-VoIP/res/layout/extensible_card.xml
+END
+message_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/message_list_item.xml
+END
+call_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/call_detail.xml
+END
+in_call_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/in_call_media.xml
+END
+buddy_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/buddy_list.xml
+END
+filters_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/filters_list.xml
+END
+dialer_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/dialer_text.xml
+END
+in_call_controls2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/in_call_controls2.xml
+END
+recent_calls_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/recent_calls_list_item.xml
+END
+accounts_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/accounts_list.xml
+END
+invalid_preference_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/invalid_preference_row.xml
+END
+dialer_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/dialer_activity.xml
+END
+fast_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/fast_settings.xml
+END
+quickaction_vitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/quickaction_vitem.xml
+END
+sms_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/sms_activity.xml
+END
+dialer_digit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/dialer_digit.xml
+END
+filters_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/filters_list_item.xml
+END
+widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/widget.xml
+END
+conversation_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/conversation_list_item.xml
+END
+choose_account_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/choose_account_row.xml
+END
+valid_preference_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/valid_preference_row.xml
+END
+add_account_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/add_account_wizard.xml
+END
+account_filters_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/account_filters_title.xml
+END
+icon_preference_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/35/trunk/Keyyo-VoIP/res/layout/icon_preference_screen.xml
+END
+home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/Keyyo-VoIP/res/layout/home.xml
+END
+quickaction_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/quickaction_item.xml
+END
+legal_information.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/legal_information.xml
+END
+welcome.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/welcome.xml
+END
+codecs_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/codecs_list.xml
+END
+recent_calls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/recent_calls.xml
+END
+dialpad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/dialpad.xml
+END
+outgoing_account_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/25/trunk/Keyyo-VoIP/res/layout/outgoing_account_list.xml
+END
+gingerbread_int_conflict.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/gingerbread_int_conflict.xml
+END
+conversation_list_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/conversation_list_screen.xml
+END
+contact_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/contact_list_item.xml
+END
+recipient_filter_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/recipient_filter_item.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/faq.xml
+END
+sms_composer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/sms_composer.xml
+END
+account_chooser_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/account_chooser_button.xml
+END
+custom_prefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/custom_prefs.xml
+END
+codecs_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/codecs_list_item.xml
+END
+quickaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/quickaction.xml
+END
+pickup_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/pickup_uri.xml
+END
+alert_dialog_text_entry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/alert_dialog_text_entry.xml
+END
+notification_registration_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/Keyyo-VoIP/res/layout/notification_registration_layout.xml
+END
+home_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/Keyyo-VoIP/res/layout/home_tab.xml
+END
+edit_sip_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/Keyyo-VoIP/res/layout/edit_sip_uri.xml
+END
